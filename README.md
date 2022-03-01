@@ -1,6 +1,6 @@
 - 👋 Hello World, I’m @natija23! :)
 - 👀 I’m interested in QA testing, software dewelopment & cyber security.
-- 🌱 I’m currently at very beginning and learning QA testing.
+- 🌱 I’m currently under construction! :) at very beginning and learning QA testing.
 - 💞️ I’m looking to collaborate with Companies & Seniors on Website & App testing projects.
 - 📫 Reach me tcvijic2@gmail.com. I'll be happy to assist.
 
